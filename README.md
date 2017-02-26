@@ -1,3 +1,6 @@
+### Inactive 
+I no longer own UniFi kit, this repo is not being maintained
+
 ### To Install or Update (Current Version 5.0.7)
 Upload unifi_5.0.7_i386.apk to the NAS and install using App Central.
 
